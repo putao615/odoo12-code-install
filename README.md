@@ -15,6 +15,8 @@ Installation Steps:
     ./odoo12-install.sh
 
 
-TIPS: Due to chinese internet envirenment, I redirect LESS respository to a chinese address, please remove "--registry=https://registry.npm.taobao.org" and just keep "sudo npm install -g less" if you are not live in china.
+TIPS:
+
+Due to chinese internet envirenment, I redirect LESS respository to a chinese address, please remove "--registry=https://registry.npm.taobao.org" and just keep "sudo npm install -g less" if you are not live in china.
 
     sudo npm install -g less --registry=https://registry.npm.taobao.org
