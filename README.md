@@ -4,7 +4,7 @@ Installation Steps:
 
 1. Download the script.
 
-    sudo wget https://raw.githubusercontent.com/putao615/odoo12-install-script/12.0/odoo12-install.sh
+    sudo wget https://raw.githubusercontent.com/putao615/odoo12-code-install/12.0/odoo12-install.sh
 
 2. Add run right to the script.
 
@@ -16,7 +16,6 @@ Installation Steps:
 
 
 TIPS:
-
 Due to chinese internet environment, I redirect LESS respository to a chinese address, if you are not live in china, please remove "--registry=https://registry.npm.taobao.org" and just keep "sudo npm install -g less".
 
     sudo npm install -g less --registry=https://registry.npm.taobao.org
