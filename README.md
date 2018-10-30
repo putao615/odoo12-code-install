@@ -4,16 +4,17 @@ Installation Steps:
 
 1. Download the script.
 
-sudo wget https://raw.githubusercontent.com/putao615/odoo12-install-script/12.0/odoo12-install.sh
+    sudo wget https://raw.githubusercontent.com/putao615/odoo12-install-script/12.0/odoo12-install.sh
+
 2. Add run right to the script.
 
-sudo chmod +x odoo12-install.sh
+    sudo chmod +x odoo12-install.sh
 
 3. Execute the script and which will be finished automatically.
 
-./odoo12-install.sh
+    ./odoo12-install.sh
 
 
 TIPS: Due to chinese internet envirenment, I redirect LESS respository to a chinese address, please remove "--registry=https://registry.npm.taobao.org" and just keep "sudo npm install -g less" if you are not live in china.
 
-sudo npm install -g less --registry=https://registry.npm.taobao.org
+    sudo npm install -g less --registry=https://registry.npm.taobao.org
