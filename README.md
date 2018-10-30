@@ -16,6 +16,7 @@ Installation Steps:
 
 
 TIPS:
+
 Due to chinese internet environment, I redirect LESS respository to a chinese address, if you are not live in china, please remove "--registry=https://registry.npm.taobao.org" and just keep "sudo npm install -g less".
 
     sudo npm install -g less --registry=https://registry.npm.taobao.org
